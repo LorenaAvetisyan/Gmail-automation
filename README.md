@@ -4,14 +4,20 @@
 ## 🧩 Overview
 
 **Gmail Automation** is an AI-driven solution built for development studio to automate and streamline email communication.  
-It uses artificial intelligence to read incoming messages, generate professional and context-aware replies, and manage your Gmail workflow efficiently.  
+It uses artificial intelligence to read incoming messages, generate professional and context-aware replies, and manage your Gmail workflow efficiently.              <img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/301a1797-7a12-4634-aa47-   
+                                                                                                                                                                       63cae6547117" />
 
-The automation can either send responses automatically or create drafts for manual review — ensuring both speed and quality control.
 
----
+The automation can either send responses automatically or create drafts for manual review — ensuring both speed and quality control.                                      <img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/7c7d4624-f47a-4a3e-9aec- 
+                                                                                                                                                                            4cbf3016254c" />
 
-## ⚙️ Functionality
 
+---                                                                                                       
+
+## ⚙️ Functionality                                                                                                                                                     <img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/2c81568b-e90e-46b5-a92b-    
+                                                                                                                                                                         de40b8ec28d6" />
+
+  
 ### 🤖 AI-Powered Email Assistant
 - The AI model automatically analyzes incoming Gmail messages.  
 - It understands the context and generates accurate, polite, and professional replies on your behalf.  
