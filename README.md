@@ -4,9 +4,6 @@
 <img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/163efbac-d1da-4079-9bd0-22f4058325f2" /> 
 <img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/8912f253-5e5a-4c1d-810d-99ab1298ebbe" />
 <img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/e3f92c03-a7e7-4575-b8b9-d55e1464a05d" />
-
-
-
 ## 🧩 Overview
 
 **Gmail Automation** is an AI-driven solution built for development studio to automate and streamline email communication.  
