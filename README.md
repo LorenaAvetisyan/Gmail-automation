@@ -1,21 +1,26 @@
 
 # 📧 Gmail Automation for Development Studio
 
+<img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/163efbac-d1da-4079-9bd0-22f4058325f2" /> 
+<img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/8912f253-5e5a-4c1d-810d-99ab1298ebbe" />
+<img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/e3f92c03-a7e7-4575-b8b9-d55e1464a05d" />
+
+
+
 ## 🧩 Overview
 
 **Gmail Automation** is an AI-driven solution built for development studio to automate and streamline email communication.  
-It uses artificial intelligence to read incoming messages, generate professional and context-aware replies, and manage your Gmail workflow efficiently.              <img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/301a1797-7a12-4634-aa47-   
-                                                                                                                                                                       63cae6547117" />
+It uses artificial intelligence to read incoming messages, generate professional and context-aware replies, and manage your Gmail workflow efficiently.             
 
 
-The automation can either send responses automatically or create drafts for manual review — ensuring both speed and quality control.                                      <img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/7c7d4624-f47a-4a3e-9aec- 
-                                                                                                                                                                            4cbf3016254c" />
+The automation can either send responses automatically or create drafts for manual review — ensuring both speed and quality control.                                     c- 
+                                                                                                                                                                          
 
 
 ---                                                                                                       
 
-## ⚙️ Functionality                                                                                                                                                     <img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/2c81568b-e90e-46b5-a92b-    
-                                                                                                                                                                         de40b8ec28d6" />
+## ⚙️ Functionality                                                                                                                                    
+                                                                                                                                                                  
 
   
 ### 🤖 AI-Powered Email Assistant
